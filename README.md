@@ -4,7 +4,7 @@ A Linux port of Dave Dunfield's **Micro-C** cross-compiler and **asm09**
 assembler for the Motorola 6809.
 
 Original source: [Dunfield Development Services](https://dunfield.themindfactory.com)
-— released as freeware.  See `micro-c/copy.txt` for licence terms.
+— released as freeware.  See `COPY.TXT` for licence terms.
 
 ---
 
